@@ -1,7 +1,7 @@
 # Hi there 👋 Rahul here! Pleasure to make your acquaintance.
 ## New to GitHub! Striving to get ahead in the future <3
 
-**Familiar Tech Stacks :-**
+**Familiar Tech Stacks and Programming Languages :-**
 1. Web Development
    - HTML
    - CSS
